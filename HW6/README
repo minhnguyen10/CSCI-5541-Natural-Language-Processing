@@ -1,0 +1,12 @@
+Authors: Minh Nguyen, Zhecheng Sheng
+
+Usage:
+  pectrogram2.py [-h] wavfile
+
+Note:
+- sampleWindowSize and sampleWindowSize is calculated by hand using given sample rate, sample per msec, and window length
+- Using different sample rate, sample per msec, and window length, must replace sampleWindowSize and sampleWindowSize 
+
+Requirements:
+- matplotlib
+- scipy

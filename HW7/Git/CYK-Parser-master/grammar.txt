@@ -1,0 +1,14 @@
+S -> NP VP
+NP -> NP PP
+VP -> V NP
+X -> V NP
+VP -> X PP
+PP -> P NP
+NP -> 'i'
+NP -> 'mom'
+NP -> 'home'
+N -> 'i'
+N -> 'mom'
+N -> 'home'
+V -> 'called'
+P -> 'at'
